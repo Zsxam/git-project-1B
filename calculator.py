@@ -5,3 +5,6 @@ print(c)
 
 bagi = a/b
 print(bagi)
+
+kali = a*b
+print(kali)
